@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Samuel Lau - Web Design | Web Development</title>
+    <link>https://samuelauweb.github.io/categories/</link>
+    <description>Recent content in Categories on Samuel Lau - Web Design | Web Development</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Sep 2021 14:17:47 +0800</lastBuildDate><atom:link href="https://samuelauweb.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown</title>
+      <link>https://samuelauweb.github.io/categories/markdown/</link>
+      <pubDate>Fri, 24 Sep 2021 14:17:47 +0800</pubDate>
+      
+      <guid>https://samuelauweb.github.io/categories/markdown/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
