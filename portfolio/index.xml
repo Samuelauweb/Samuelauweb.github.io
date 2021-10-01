@@ -7,11 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://samuelauweb.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Sep 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://samuelauweb.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FitnesSwap</title>
+      <link>https://samuelauweb.github.io/portfolio/project-6/</link>
+      <pubDate>Thu, 30 Sep 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://samuelauweb.github.io/portfolio/project-6/</guid>
+      <description>FitnesSwap.com is a website that aims to provide a platform for sports enthusiast to exchange their sports products.</description>
+    </item>
+    
+    <item>
+      <title>Tanita專業身體組成分析測試 (Body Composition Monitor)</title>
+      <link>https://samuelauweb.github.io/portfolio/project-5/</link>
+      <pubDate>Sat, 12 Jun 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://samuelauweb.github.io/portfolio/project-5/</guid>
+      <description>It is a poster that to introduce the members in the fitness center about the body composition monitor.</description>
+    </item>
+    
     <item>
       <title>1對1新手壺鈴訓練班 (1-on-1 Kettlebell Training Class)</title>
       <link>https://samuelauweb.github.io/portfolio/project-4/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <pubDate>Wed, 12 Aug 2020 12:14:34 +0600</pubDate>
       
       <guid>https://samuelauweb.github.io/portfolio/project-4/</guid>
       <description>This ebook serves as a companion to the participants of 1-on-1 Kettlebell training class.</description>
@@ -19,10 +37,10 @@
     
     <item>
       <title>7堂家居 - 壺鈴基礎 - 網上課程 (Youtube)</title>
-      <link>https://samuelauweb.github.io/portfolio/project-6/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <link>https://samuelauweb.github.io/portfolio/project-3/</link>
+      <pubDate>Fri, 12 Jun 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://samuelauweb.github.io/portfolio/project-6/</guid>
+      <guid>https://samuelauweb.github.io/portfolio/project-3/</guid>
       <description>It is a short vídeo that to promote an online course which the topic is about practising kettlebell in a home environment.</description>
     </item>
     
@@ -36,30 +54,12 @@
     </item>
     
     <item>
-      <title>FitnesSwap.com</title>
+      <title>做運動拉筋伸展？ 用一支五元Stick會令你有意想不到效果！(Youtube)</title>
       <link>https://samuelauweb.github.io/portfolio/project-1/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <pubDate>Fri, 08 Nov 2019 12:14:34 +0600</pubDate>
       
       <guid>https://samuelauweb.github.io/portfolio/project-1/</guid>
-      <description>FitnesSwap.com ia a website that aims to provide a platform for sports enthusiast to exchange their sports products.</description>
-    </item>
-    
-    <item>
-      <title>Tanita專業身體組成分析測試 (Body Composition Monitor)</title>
-      <link>https://samuelauweb.github.io/portfolio/project-3/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://samuelauweb.github.io/portfolio/project-3/</guid>
-      <description>It is a poster that to introduce the members in the fitness center about the body composition monitor.</description>
-    </item>
-    
-    <item>
-      <title>做運動拉筋伸展？ 用一支五元Stick會令你有意想不到效果！(Youtube)</title>
-      <link>https://samuelauweb.github.io/portfolio/project-5/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://samuelauweb.github.io/portfolio/project-5/</guid>
-      <description>It is a medium-length vídeo that to instruct people how they can perform some stretching activities using a low-budget stick as a tool.</description>
+      <description>It is a medium-length vídeo that to instruct people how they can perform some stretching exercises using a low-budget stick as a tool.</description>
     </item>
     
   </channel>
