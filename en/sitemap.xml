@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://samuelauweb.github.io/categories/</loc>
-    <lastmod>2021-09-30T12:14:34+06:00</lastmod>
+    <lastmod>2021-10-29T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -15,17 +15,14 @@
                 href="https://samuelauweb.github.io/categories/"
                 />
   </url><url>
-    <loc>https://samuelauweb.github.io/portfolio/project-6/</loc>
-    <lastmod>2021-09-30T12:14:34+06:00</lastmod>
+    <loc>https://samuelauweb.github.io/categories/mini-projects/</loc>
+    <lastmod>2021-10-29T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://samuelauweb.github.io/portfolio/</loc>
-    <lastmod>2021-09-30T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://samuelauweb.github.io/categories/project/</loc>
-    <lastmod>2021-09-30T12:14:34+06:00</lastmod>
+    <lastmod>2021-10-29T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://samuelauweb.github.io/</loc>
-    <lastmod>2021-09-30T12:14:34+06:00</lastmod>
+    <lastmod>2021-10-29T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -36,6 +33,15 @@
                 hreflang="en"
                 href="https://samuelauweb.github.io/"
                 />
+  </url><url>
+    <loc>https://samuelauweb.github.io/portfolio/project-7/</loc>
+    <lastmod>2021-10-29T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://samuelauweb.github.io/portfolio/project-6/</loc>
+    <lastmod>2021-09-30T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://samuelauweb.github.io/categories/project/</loc>
+    <lastmod>2021-09-30T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://samuelauweb.github.io/categories/web-development/</loc>
     <lastmod>2021-09-30T12:14:34+06:00</lastmod>

@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Thu, 30 Sep 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://samuelauweb.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Oct 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://samuelauweb.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simple Github Finder</title>
+      <link>https://samuelauweb.github.io/portfolio/project-7/</link>
+      <pubDate>Fri, 29 Oct 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://samuelauweb.github.io/portfolio/project-7/</guid>
+      <description>Simplegithubfinder.netlify.app is a small application built using React.js that enable people to search for any GitHub user.</description>
+    </item>
+    
     <item>
       <title>FitnesSwap</title>
       <link>https://samuelauweb.github.io/portfolio/project-6/</link>
