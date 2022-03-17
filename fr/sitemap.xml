@@ -2,11 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://samuelauweb.github.io/fr/english/funfacts/</loc>
-  </url><url>
-    <loc>https://samuelauweb.github.io/fr/english/about/</loc>
+    <loc>https://samuelauweb.github.io/fr/categories/apps/</loc>
+    <lastmod>2022-03-16T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samuelauweb.github.io/categories/apps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samuelauweb.github.io/fr/categories/apps/"
+                />
   </url><url>
     <loc>https://samuelauweb.github.io/fr/categories/</loc>
+    <lastmod>2022-03-16T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,12 +29,78 @@
                 />
   </url><url>
     <loc>https://samuelauweb.github.io/fr/english/</loc>
+    <lastmod>2022-03-16T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://samuelauweb.github.io/fr/english/banner/</loc>
+    <loc>https://samuelauweb.github.io/fr/categories/expressjs/</loc>
+    <lastmod>2022-03-16T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samuelauweb.github.io/categories/expressjs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samuelauweb.github.io/fr/categories/expressjs/"
+                />
   </url><url>
-    <loc>https://samuelauweb.github.io/fr/english/call-to-action/</loc>
+    <loc>https://samuelauweb.github.io/fr/categories/mongodb/</loc>
+    <lastmod>2022-03-16T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samuelauweb.github.io/categories/mongodb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samuelauweb.github.io/fr/categories/mongodb/"
+                />
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/categories/nodejs/</loc>
+    <lastmod>2022-03-16T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samuelauweb.github.io/categories/nodejs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samuelauweb.github.io/fr/categories/nodejs/"
+                />
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/english/portfolio/</loc>
+    <lastmod>2022-03-16T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/categories/project/</loc>
+    <lastmod>2022-03-16T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samuelauweb.github.io/categories/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samuelauweb.github.io/fr/categories/project/"
+                />
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/categories/reactjs/</loc>
+    <lastmod>2022-03-16T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samuelauweb.github.io/categories/reactjs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samuelauweb.github.io/fr/categories/reactjs/"
+                />
   </url><url>
     <loc>https://samuelauweb.github.io/fr/</loc>
+    <lastmod>2022-03-16T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -36,11 +112,149 @@
                 href="https://samuelauweb.github.io/fr/"
                 />
   </url><url>
-    <loc>https://samuelauweb.github.io/fr/english/contact/</loc>
+    <loc>https://samuelauweb.github.io/fr/english/portfolio/project-8/</loc>
+    <lastmod>2022-03-16T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://samuelauweb.github.io/fr/english/service/</loc>
+    <loc>https://samuelauweb.github.io/fr/categories/mini-projects/</loc>
+    <lastmod>2021-10-29T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samuelauweb.github.io/categories/mini-projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samuelauweb.github.io/fr/categories/mini-projects/"
+                />
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/english/portfolio/project-7/</loc>
+    <lastmod>2021-10-29T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/english/portfolio/project-6/</loc>
+    <lastmod>2021-09-30T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/categories/web-development/</loc>
+    <lastmod>2021-09-30T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samuelauweb.github.io/categories/web-development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samuelauweb.github.io/fr/categories/web-development/"
+                />
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/categories/graphic-design/</loc>
+    <lastmod>2021-06-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samuelauweb.github.io/categories/graphic-design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samuelauweb.github.io/fr/categories/graphic-design/"
+                />
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/english/portfolio/project-5/</loc>
+    <lastmod>2021-06-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/english/portfolio/project-4/</loc>
+    <lastmod>2020-08-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/categories/ebook/</loc>
+    <lastmod>2020-08-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samuelauweb.github.io/categories/ebook/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samuelauweb.github.io/fr/categories/ebook/"
+                />
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/english/portfolio/project-3/</loc>
+    <lastmod>2020-06-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/categories/video/</loc>
+    <lastmod>2020-06-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samuelauweb.github.io/categories/video/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samuelauweb.github.io/fr/categories/video/"
+                />
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/tags/access/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samuelauweb.github.io/tags/access/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samuelauweb.github.io/fr/tags/access/"
+                />
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/tags/art/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samuelauweb.github.io/tags/art/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samuelauweb.github.io/fr/tags/art/"
+                />
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/tags/database/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samuelauweb.github.io/tags/database/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samuelauweb.github.io/fr/tags/database/"
+                />
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/tags/design/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samuelauweb.github.io/tags/design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samuelauweb.github.io/fr/tags/design/"
+                />
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/english/portfolio/project-2/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/english/blog/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://samuelauweb.github.io/fr/tags/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -51,6 +265,52 @@
                 hreflang="fr"
                 href="https://samuelauweb.github.io/fr/tags/"
                 />
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/english/blog/blog-1/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/english/blog/blog-2/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/english/blog/blog-3/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/english/blog/blog-4/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/english/blog/blog-5/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/english/blog/blog-6/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/tags/web/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samuelauweb.github.io/tags/web/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samuelauweb.github.io/fr/tags/web/"
+                />
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/english/portfolio/project-1/</loc>
+    <lastmod>2019-11-08T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/english/funfacts/</loc>
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/english/about/</loc>
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/english/banner/</loc>
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/english/call-to-action/</loc>
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/english/contact/</loc>
+  </url><url>
+    <loc>https://samuelauweb.github.io/fr/english/service/</loc>
   </url><url>
     <loc>https://samuelauweb.github.io/fr/english/testimonial/</loc>
   </url>
